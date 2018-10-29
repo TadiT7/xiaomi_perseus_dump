@@ -1,0 +1,9 @@
+ota-property-files=metadata:69:289         
+ota-required-cache=0
+ota-type=BLOCK
+post-build=Xiaomi/perseus/perseus:9/PKQ1.180729.001/8.10.25:user/release-keys
+post-build-incremental=8.10.25
+post-sdk-level=28
+post-security-patch-level=2018-10-01
+post-timestamp=1540441693
+pre-device=perseus

@@ -1,0 +1,5 @@
+<ellipticFusionSensorSetup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <fusionSensor name="Elliptic Shake Detector"           enabled="true"  accelThreshold="2.0" gyroThreshold="2.0" />
+    <fusionSensor name="Elliptic Tabletop Detector"        enabled="true"  accelThreshold="1.7" gyroThreshold="0.1"  />
+    <fusionSensor name="Elliptic Proximity Fusion"         enabled="true"  accelThreshold="1.7" gyroThreshold="0.1" filterRawSensor="true" />
+</ellipticFusionSensorSetup>
