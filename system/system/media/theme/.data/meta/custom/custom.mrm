@@ -1,0 +1,24 @@
+[
+    {
+        "subject":"palace",
+        "international":false,
+        "hwversion":[
+            "6.9.2"
+        ],
+        "local":{
+            "id":"d5fd2b45-8331-43e8-b203-f0cb6cdd7ba6"
+        },
+        "guide_sort":"d5fd2b45-8331-43e8-b203-f0cb6cdd7ba6,0,cfd320b2-e40f-42b1-91db-1ca8e9394352"
+    },
+    {
+        "subject":"mirror",
+        "hwversion":[
+            "*"
+        ],
+        "local":{
+            "id":"d5fd2b45-8331-43e8-b203-f0cb6cdd7ba6",
+            "video":"system/media/lockscreen/video/video_wallpaper_001.mp4"
+        },
+        "guide_sort":"0,cfd320b2-e40f-42b1-91db-1ca8e9394352,d5fd2b45-8331-43e8-b203-f0cb6cdd7ba6"
+    }
+]
